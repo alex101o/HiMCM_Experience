@@ -1,2 +1,2 @@
-# HiMCM_Experience
-Something some time ago
+# HiMCM_Code
+Code used for High School Mathematical Contest in Modeling
